@@ -1,10 +1,10 @@
-# Ultra Smooth Scrolling
+# Smooth Scrolling Project
 
 A smooth scrolling website with 60fps performance and beautiful animations.
 
 ## Features
 
-- Ultra smooth scrolling with customizable speed
+- smooth scrolling with customizable speed
 - Mobile-friendly touch support
 - Parallax effects
 - Glassmorphism design
@@ -12,13 +12,13 @@ A smooth scrolling website with 60fps performance and beautiful animations.
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com) | [Preview GIF](preview.gif)
+![Ultra Smooth Scrolling Preview](Preview.png)
 
 ## Quick Start
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ultra-smooth-scrolling.git
+   git clone https://github.com/lasantha746/Smooth-Scrolling-Project-.git
    ```
 
 2. Open `index.html` in your browser
